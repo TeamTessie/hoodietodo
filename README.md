@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Creating a new Hoodie App
 
 [![Dependency Status](https://david-dm.org/hoodiehq/my-first-hoodie.svg)](https://david-dm.org/hoodiehq/my-first-hoodie)
@@ -154,3 +155,6 @@ Boom.
 
     $ hoodie deploy
      - jitsu deploy-->
+=======
+# hoodietodo
+>>>>>>> 2ac4d6a36e294f53a66c808c283afa1acd404d37
