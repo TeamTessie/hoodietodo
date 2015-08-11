@@ -1,3 +1,8 @@
+#Run the App
+Start app locally:
+    $ cd hoodietodo
+    $ hoodie start
+
 # Creating a new Hoodie App
 
 [![Dependency Status](https://david-dm.org/hoodiehq/my-first-hoodie.svg)](https://david-dm.org/hoodiehq/my-first-hoodie)
