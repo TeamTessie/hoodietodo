@@ -1,6 +1,8 @@
 "use strict";
 // initialize Hoodie
 var hoodie  = new Hoodie();
+var Hapi = require('hapi')
+var hapiStore = require('hapi-couchdb-store')
 
 // Todos Collection/View
 function Todos($element) {

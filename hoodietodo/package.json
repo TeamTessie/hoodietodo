@@ -31,9 +31,7 @@
     "start": "node node_modules/hoodie-server/bin/start"
   },
   "type": "app",
-  "gitHead": "33fdb70357c415bbed56bbbd5197c805c0264294",
   "description": "[![Dependency Status](https://david-dm.org/hoodiehq/my-first-hoodie.svg)](https://david-dm.org/hoodiehq/my-first-hoodie)",
-  "_id": "my-first-hoodie@3.2.1",
   "_shasum": "240df30b9664e56a04bb2ba2ad26c52e5691d763",
   "_from": "my-first-hoodie@3.2.1",
   "_npmVersion": "2.13.0",
@@ -47,36 +45,30 @@
     "tarball": "http://registry.npmjs.org/my-first-hoodie/-/my-first-hoodie-3.2.1.tgz"
   },
   "maintainers": [
-    {
-      "name": "svnlto",
-      "email": "me@svenlito.com"
-    },
-    {
-      "name": "caolan",
-      "email": "caolan.mcmahon@gmail.com"
-    },
-    {
-      "name": "gr2m",
-      "email": "gregor@martynus.net"
-    },
-    {
-      "name": "jan",
-      "email": "jan@apache.org"
-    },
-    {
-      "name": "espy",
-      "email": "hello@alexfeyerke.com"
-    },
-    {
-      "name": "boennemann",
-      "email": "stephan@boennemann.me"
-    },
-    {
-      "name": "hoodiebot",
-      "email": "stephan@thehoodiefirm.com"
-    }
+    "svnlto <me@svenlito.com>",
+    "caolan <caolan.mcmahon@gmail.com>",
+    "gr2m <gregor@martynus.net>",
+    "jan <jan@apache.org>",
+    "espy <hello@alexfeyerke.com>",
+    "boennemann <stephan@boennemann.me>",
+    "hoodiebot <stephan@thehoodiefirm.com>"
   ],
   "directories": {},
   "_resolved": "https://registry.npmjs.org/my-first-hoodie/-/my-first-hoodie-3.2.1.tgz",
-  "readme": "ERROR: No README data found!"
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TeamTessie/hoodietodo.git"
+  },
+  "keywords": [
+    "todo",
+    "hoodie",
+    "hapi"
+  ],
+  "author": "Shelly Coen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamTessie/hoodietodo/issues"
+  },
+  "homepage": "https://github.com/TeamTessie/hoodietodo"
 }
